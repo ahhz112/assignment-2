@@ -1,12 +1,12 @@
 {
-  "name": "assignment-1",
+  "name": "assignment-2",
   "version": "1.0.0",
-  "description": "This is my first Node.js project",
+  "description": "node.js project",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"error: no test specified\" && exit 1"
   },
-  "author": "Abdullah Alzahrani",
-  "license": "ISC"
+  "author": "abdullah alzahrani",
+  "license": "isc"
 }
