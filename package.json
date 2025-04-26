@@ -7,6 +7,6 @@
     "start": "node index.js",
     "test": "echo \"error: no test specified\" && exit 1"
   },
-  "author": "abdullah alzahrani",
+  "author": "abdullah",
   "license": "isc"
 }
