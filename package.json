@@ -1,12 +1,12 @@
 {
-  "name": "assignment-2",
+  "name": "fcc-learn-npm-package-json",
   "version": "1.0.0",
-  "description": "node.js project",
+  "description": "A project that does something awesome",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "test": "echo \"error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "abdullah",
-  "license": "isc"
+  "author": "Abdullah Alzahrani",
+  "license": "ISC"
 }
