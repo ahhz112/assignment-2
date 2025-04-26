@@ -1,18 +1,12 @@
 {
-  "name": "fcc-learn-npm-package-json",
-  "author": "foobar",
-  "dependencies": {
-    "express": "^4.14.0"
-  },
-  "main": "server.js",
+  "name": "assignment-2",
+  "version": "1.0.0",
+  "description": "node.js project",
+  "main": "index.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node index.js",
+    "test": "echo \"error: no test specified\" && exit 1"
   },
-  "engines": {
-    "node": "8.11.2"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://idontknow/todo.git"
-  }
+  "author": "abdullah alzahrani",
+  "license": "isc"
 }
